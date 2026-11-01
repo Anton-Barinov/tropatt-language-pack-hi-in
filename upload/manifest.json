@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-hi-in",
+    "full_code": "crm.language-pack-hi-in",
+    "vendor": "crm",
+    "code": "hi-in",
+    "title": "Hindi Language Pack (हिन्दी)",
+    "native_name": "हिन्दी",
+    "direction": "ltr",
+    "author": "Anton Barinov",
+    "version": "1.0.0",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "TropaTT CRM हिन्दी localization pack.",
+    "signature": "cc0173548da9e0ee721ab9bae328457e78bf9fff955e8b50c4658ef0aa32ac71"
+}

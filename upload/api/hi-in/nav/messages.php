@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'dashboard' => 'Painel',
+  'ideas' => 'Ideas',
+  'tasks' => 'Tarefas',
+  'day' => 'My day',
+  'week' => 'My सप्ताह',
+  'kanban' => 'Kanban',
+  'gantt' => 'Gantt',
+  'projects' => 'Projetos',
+  'calendar' => 'Calendário',
+  'counterparties' => 'Counterparties',
+  'teams' => 'Equipes',
+  'knowledge' => 'Base de conhecimento',
+  'analytics' => 'Análises',
+  'notifications' => 'Notificações',
+  'admin' => 'Administração',
+  'intake' => 'Intake',
+  'cycles' => 'Cycles (Sprints)',
+  'project_modules' => 'प्रोजेक्ट Modules',
+  'admin_estimates' => 'कार्य Estimates',
+  'admin_modules' => 'Modules',
+  'chat' => 'Conversas',
+  'docs' => 'Documentation',
+  'api' => 'Documentation',
+  'my_earnings' => 'My earnings',
+  'rate_cards' => 'Rate cards',
+  'menu_loaded' => 'Menu loaded',
+);

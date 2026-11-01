@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'loading' => 'Carregando…',
+  'load_error' => 'लोड हो रहा है त्रुटि',
+  'empty' => 'No saved views',
+  'pinned' => 'Pinned',
+  'other' => 'Others',
+  'system' => 'System',
+  'public' => 'Public',
+  'private' => 'Private',
+  'pin' => 'Pin',
+  'unpin' => 'Unpin',
+  'duplicate' => 'Duplicate',
+  'edit' => 'Editar',
+  'archive' => 'Archive',
+  'applied' => 'View applied:',
+  'apply_error' => 'त्रुटि applying view',
+  'save_as' => 'सहेजें as new view',
+  'edit_title' => 'Edit view',
+  'title_required' => 'Enter a view नाम',
+  'update_error' => 'त्रुटि updating view',
+  'create_error' => 'त्रुटि creating view',
+  'pinned_msg' => 'Pinned',
+  'unpinned_msg' => 'Unpinned',
+  'pin_error' => 'Erro',
+  'duplicated' => 'View duplicated',
+  'duplicate_error' => 'त्रुटि duplicating',
+  'confirm_archive' => 'Archive this view?',
+  'archived' => 'View archived',
+  'archive_error' => 'त्रुटि archiving',
+);

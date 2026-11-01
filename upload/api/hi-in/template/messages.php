@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'task_list' => 'कार्य template list',
+  'task_created' => 'कार्य template created',
+  'task_detail' => 'कार्य template',
+  'task_updated' => 'कार्य template updated',
+  'task_deleted' => 'कार्य template deleted',
+  'project_list' => 'प्रोजेक्ट template list',
+  'project_created' => 'प्रोजेक्ट template created',
+  'project_detail' => 'प्रोजेक्ट template',
+  'project_updated' => 'प्रोजेक्ट template updated',
+  'project_deleted' => 'प्रोजेक्ट template deleted',
+  'max_255' => 'Maximum 255 characters',
+  'payload_object' => 'payload field must be an object',
+  'not_found' => 'Template not found',
+  'empty_tasks' => 'No कार्य templates',
+  'empty_projects' => 'No प्रोजेक्ट templates',
+  'load_error_tasks' => 'Failed to load कार्य templates',
+  'load_error_projects' => 'Failed to load प्रोजेक्ट templates',
+  'btn_delete' => 'Excluir',
+  'created_task_notify' => 'कार्य template created',
+  'created_project_notify' => 'प्रोजेक्ट template created',
+  'error_create' => 'बनाएं त्रुटि',
+  'confirm_delete_task' => 'हटाएं कार्य template?',
+  'confirm_delete_project' => 'हटाएं प्रोजेक्ट template?',
+  'deleted_task_notify' => 'कार्य template deleted',
+  'deleted_project_notify' => 'प्रोजेक्ट template deleted',
+  'error_delete' => 'हटाएं त्रुटि',
+  'task_applied' => 'कार्य created from template',
+  'project_applied' => 'प्रोजेक्ट created from template',
+);
